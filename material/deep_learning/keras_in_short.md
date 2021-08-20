@@ -214,7 +214,7 @@ model.compile(..., optimizer='SGD', ...)
 ```
 from tensorflow.keras import optimizers
 
-sgd = optimizers.SGD(lr=0.001)
+sgd = optimizers.SGD(learning_rate=0.001)
 model.compile(..., optimizer=sgd, ...)
 ```
 

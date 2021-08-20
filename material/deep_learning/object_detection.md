@@ -62,11 +62,7 @@ https://github.com/qqwweee/keras-yolo3
 
 # YOLO 커스텀 데이터 학습
 
-keras-yolo3 사용
-
-https://github.com/qqwweee/keras-yolo3
-
-실습 자료 : [training_yolo_with_custom_data.ipynb](training_yolo_with_custom_data.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/training_yolo_with_custom_data.ipynb)
+실습 자료 : [train_yolov3_custom.ipynb](train_yolov3_custom.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/train_yolov3_custom.ipynb)
 
 
 <br>
@@ -75,57 +71,12 @@ https://github.com/qqwweee/keras-yolo3
 
 레이블링 가이드 : [yolo_labeling_guide.pdf](yolo_labeling_guide.pdf)
 
-가이드 내의 변환 코드 : [convert_yolo_labeling_xml.py](convert_yolo_labeling_xml.py)
-
-사용할 데이터 파일 : https://github.com/dhrim/cau_2021/blob/master/material/deep_learning/dogs-cats.zip
-
 <br>
 
-## 데이터 준비
+# 레이블링 툴
 
-2개의 파일
-- 킅래스 파일
-- 레이블링 파일과
-
-### 클래스 파일
-클래스의 이름이 있는 파일.
-
-1줄에 1개
-
-```
-person
-bicycle
-car
-motorbike
-aeroplane
-bus
-train
-...
-```
-
-<br>
-
-### 레이블링 파일
-1줄에 1개 파일에 대한 레이블링
-```
-image_file_path box1 box2 ... boxN
-```
-
-box 포멧은 다음과 같다.
-```
-x_min,y_min,x_max,y_max,class_id
-```
-
-다음은 파일 예
-```
-path/to/img1.jpg 50,100,150,200,0 30,50,200,120,3
-path/to/img2.jpg 120,300,250,600,2
-```
-
-레이블링을 위한 다음과 같은 툴을 사용할 수 있다.
-- https://github.com/Cartucho/OpenLabeling
 - https://github.com/tzutalin/labelImg
-- https://github.com/AlexeyAB/Yolo_mark
+- https://www.makesense.ai
 
 <br>
 
