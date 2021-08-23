@@ -47,7 +47,7 @@
 - 환경
     - colab 사용법
     - python 아주 살짝
-    - 기본 linux 명령어 : [linux.md](./material/linux.md)
+    - 기본 linux 명령어 : [linux.md](./material/linux.md), [실습내용](./material/deep_learning/practice_cau_2021/my_first_notebook.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/practice_cau_2021/my_first_notebook.ipynb)
 
 
 <br>
