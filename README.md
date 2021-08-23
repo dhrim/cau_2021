@@ -32,6 +32,13 @@
 
 <br>
 
+# 팀프로젝트를 위한 데이터
+
+[data_list.md](./material/deep_learning/practice_cau_2021/data_list.md)
+
+
+<br>
+
 # 일자별 계획
 
 ## 1일차
