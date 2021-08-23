@@ -105,9 +105,10 @@
 - RNN
     - text 데이터의 이해 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
     - RNN의 이해 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx)
-    - RNN을 사용한 영화 평가 데이터 IMDB 분류 실습 : [rnn_text_classification.ipynb](./material/deep_learning/rnn_text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/rnn_text_classification.ipynb)
-    - RNN을 사용한 Q&A : TODO:add_link
-
+    - RNN을 사용한 영화 평가 데이터 IMDB 분류 : [rnn_text_classification.ipynb](./material/deep_learning/rnn_text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/rnn_text_classification.ipynb)
+    - RNN을 사용한 문자열 생성 : [rnn_text_prediction.ipynb](./material/deep_learning/rnn_text_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/rnn_text_prediction.ipynb)
+    - RNN을 사용한 seq2seq 학습 : [seq2seq_addition_using_rnn.ipynb](./material/deep_learning/seq2seq_addition_using_rnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/t-academy_2021/blob/master/material/deep_learning/seq2seq_addition_using_rnn.ipynb)
+    - 
 - Keras Functional API  : [functional_api.ipynb](./material/deep_learning/functional_api.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/functional_api.ipynb)
 
 - AutoEncoder
