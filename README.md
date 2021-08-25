@@ -134,8 +134,8 @@
 
 - 얼굴 인식 : [Face_Recognition.ipynb](./material/deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/Face_Recognition.ipynb)
 
-- 포즈 추출 : [open_pose_using_template.ipynb](material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/open_pose_using_template.ipynb)
-- web cam + colab 실시간 포즈 추출 : [tf_pose_estimation_with_webcam.ipynb](material/deep_learning/tf_pose_estimation_with_webcam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/tf_pose_estimation_with_webcam.ipynb)
+- 포즈 추출 : [open_pose_using_template.ipynb](material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/open_pose_using_template.ipynb)
+- web cam + colab 실시간 포즈 추출 : [tf_pose_estimation_with_webcam.ipynb](material/deep_learning/tf_pose_estimation_with_webcam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/tf_pose_estimation_with_webcam.ipynb)
 
 
 <br>
@@ -156,11 +156,11 @@
 ## Template
 
 - 속성 데이터
-    - 예측 : [template_attribute_data_regression.ipynb](material/deep_learning/template_attribute_data_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/template_attribute_data_regression.ipynb)
-    - 분류 : [template_attribute_data_classification.ipynb](material/deep_learning/template_attribute_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/template_attribute_data_classification.ipynb)
+    - 예측 : [template_attribute_data_regression.ipynb](material/deep_learning/template_attribute_data_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/template_attribute_data_regression.ipynb)
+    - 분류 : [template_attribute_data_classification.ipynb](material/deep_learning/template_attribute_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/template_attribute_data_classification.ipynb)
 - 영상 데이터
-    - 분류 - vanilla CNN : [template_image_data_vannilla_cnn_classification.ipynb](material/deep_learning/template_image_data_vannilla_cnn_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/template_image_data_vannilla_cnn_classification.ipynb)
-    - 분류 - 전이학습 : [template_image_data_transfer_learning_classification.ipynb](material/deep_learning/template_image_data_transfer_learning_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/template_image_data_transfer_learning_classification.ipynb)
+    - 분류 - vanilla CNN : [template_image_data_vannilla_cnn_classification.ipynb](material/deep_learning/template_image_data_vannilla_cnn_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/template_image_data_vannilla_cnn_classification.ipynb)
+    - 분류 - 전이학습 : [template_image_data_transfer_learning_classification.ipynb](material/deep_learning/template_image_data_transfer_learning_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/template_image_data_transfer_learning_classification.ipynb)
 
 
 <br>
@@ -186,12 +186,12 @@
 - 영상 데이터
     - 화재 영상 분류 : [fire_scene_classification.ipynb](./material/deep_learning/fire_scene_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/fire_scene_classification.ipynb)    
     - wafer map 영상 분류 : [real_practice_classify_semiconductor_wafermap.ipynb](material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb)
-    - 엔진 블레이드 영상 분류 : [engine_blade_classification.ipynb](material/deep_learning/engine_blade_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/engine_blade_classification.ipynb)
+    - 엔진 블레이드 영상 분류 : [engine_blade_classification.ipynb](material/deep_learning/engine_blade_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/engine_blade_classification.ipynb)
 
 - 속성 데이터
     - 반도체 속성 데이터 예측 : [real_practice_predict_semiconductor_attribute.ipynb](material/deep_learning/real_practice_predict_semiconductor_attribute.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_predict_semiconductor_attribute.ipynb)
     - 반도체 속성 데이터 분류 : [real_practice_classify_semiconductor_attribute.ipynb](material/deep_learning/real_practice_classify_semiconductor_attribute.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/real_practice_classify_semiconductor_attribute.ipynb)
-    - 심리설문 데이터 분류 : [real_practice_psychologial_test_classification.ipynb](material/deep_learning/real_practice_psychologial_test_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/real_practice_psychologial_test_classification.ipynb)
+    - 심리설문 데이터 분류 : [real_practice_psychologial_test_classification.ipynb](material/deep_learning/real_practice_psychologial_test_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/real_practice_psychologial_test_classification.ipynb)
 
 - 시계열 데이터
     - 시계열 데이터 예측 : [wheather_forecasting_using_TimeseriesGenerator.ipynb](material/deep_learning/wheather_forecasting_using_TimeseriesGenerator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/semiconductor_ai_2020/blob/main/material/deep_learning/wheather_forecasting_using_TimeseriesGenerator.ipynb)
