@@ -153,6 +153,17 @@
 
 # 기타
 
+# Template
+
+- 속성 데이터
+    - 예측 : [template_attribute_data_regression.ipynb](material/deep_learning/template_attribute_data_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/template_attribute_data_regression.ipynb)
+    - 분류 : [template_attribute_data_classification.ipynb](material/deep_learning/template_attribute_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/template_attribute_data_classification.ipynb)
+- 영상 데이터
+    - 분류 - vanilla CNN : [template_image_data_vannilla_cnn_classification.ipynb](material/deep_learning/template_image_data_vannilla_cnn_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/template_image_data_vannilla_cnn_classification.ipynb)
+    - 분류 - 전이학습 : [template_image_data_transfer_learning_classification.ipynb](material/deep_learning/template_image_data_transfer_learning_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/mnd_advanced_2020/blob/master/material/deep_learning/template_image_data_transfer_learning_classification.ipynb)
+
+<br>
+
 ## 성능 개선
 
 - 성능 개선 개요 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
