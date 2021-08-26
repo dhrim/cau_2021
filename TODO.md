@@ -6,19 +6,13 @@
 - 개선
     - ~~model.history~~
 - 추가
-    - regression template
-        - simple
-        - all
     - PCA
     - t-SNE
     - k-cross validation
-    - sequence data
-        - regression
-        - classification
-        - util을 사용한 sequence 데이터 처리
-    - RNN Template
-        regression
-        classification
+    - ~sequence data~
+        - ~regression~ <-- 템플릿 항목에서 처리
+        - ~classification~ <-- 템플릿 항목에서 처리
+        - ~util을 사용한 sequence 데이터 처리~
     - scikit-learn
         - scaler
         - train_test_split
@@ -29,8 +23,32 @@
     - MS facial Recognition
     - ~~howto - 쌍 유지하면서 섞기~~
     - ~~ImageDataGenerator.fit()~~ <- 하지 말자
+    - Template
+      - ~속성~
+        - ~예측~
+        - ~분류~
+      - ~영상~
+        - ~분류 - vanlilla CNN~
+        - ~예측 - 전이학습~
+      - 순차
+        - 문자열
+          - ~분류~
+          - ~예측~
+          - 연속 예측
+        - 숫자열
+           - 단일 숫자열 분류
+           - ~단일 숫자열 예측~
+           - ~다중 숫자열 분류~
+           - ~다중 숫자열 다중 예측~
+           - ~다중 숫자열 단일 예측~
+           - 단일 숫자열 연속 예측
+        - 단어열
+          - 단어열 분류
+          - 장어열 예측
+          - 단어열 연속 예측
+
 - 정리
     - 사용하지 않는 dnn_in_keras_xxx.ipynb 삭제
     - tensorflow_tutorial_xxx.ipynb 삭제
 - 픽스
-    - tf-pose-estimation_with_webcam.ipynb 복원
+    - ~tf-pose-estimation_with_webcam.ipynb 복원~
