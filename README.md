@@ -95,7 +95,9 @@
 - 전이학습
     [VGG16_classification_and_cumtom_data_training.ipynb](./material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
 
-    - 커스텀 데이터 VGG 데이터 분류 실습 : [real_practice_glaucoma_classification.ipynb](./material/deep_learning/real_practice_glaucoma_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/real_practice_glaucoma_classification.ipynb)
+    - 커스텀 데이터 VGG 데이터 분류 실습
+        - [practice_custom_image_classification.ipynb](./material/deep_learning/practice_custom_image_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/practice_custom_image_classification.ipynb)
+        - [real_practice_glaucoma_classification.ipynb](./material/deep_learning/real_practice_glaucoma_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/real_practice_glaucoma_classification.ipynb)
 
 
 <br>
