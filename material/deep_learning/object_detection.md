@@ -60,7 +60,7 @@ https://github.com/qqwweee/keras-yolo3
 <br>
 
 
-# YOLO 커스텀 데이터 학습
+## 커스텀 데이터 학습
 
 실습 자료 : [train_yolov3_custom.ipynb](train_yolov3_custom.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/train_yolov3_custom.ipynb)
 
