@@ -34,14 +34,14 @@
 
 ## 영상 데이터
 - [숨겨진 글자 분류](https://dacon.io/competitions/official/235626/data)
-- [랜드마크 분류](https://dacon.io/competitions/official/235585/data)
-- [위성 영상 분류](https://dacon.io/competitions/official/235644/data)
+- ~~[랜드마크 분류](https://dacon.io/competitions/official/235585/data)~~ : 데이터 다운로드 불가
+- ~~[위성 영상 분류](https://dacon.io/competitions/official/235644/data)~~ : 데이터 다운로드 불가
 - [영상 위조여부 분류](https://dacon.io/competitions/official/235655/data)
 - [의류 타입 분류](https://dacon.io/competitions/official/235672/data)
 
 ## 텍스트 데이터
 - [청와대 청원의 주제 분류](https://dacon.io/competitions/open/235597/data)
-- [스미싱 문자 분류](https://dacon.io/competitions/official/235401/data)
+- ~~[스미싱 문자 분류](https://dacon.io/competitions/official/235401/data)~~ : 데이터 다운로드 불가
 
 ## 시계열 데이터
 - [운동 동작 분류](https://dacon.io/competitions/official/235689/data)
