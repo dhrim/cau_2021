@@ -32,9 +32,9 @@
 
 <br>
 
-# 팀프로젝트를 위한 데이터
+# 팀프로젝트
 
-[data_list.md](./material/deep_learning/practice_cau_2021/data_list.md)
+[team_project.md](./material/deep_learning/practice_cau_2021/team_project.md)
 
 
 <br>
