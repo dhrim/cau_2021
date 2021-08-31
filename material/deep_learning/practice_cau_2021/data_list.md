@@ -47,3 +47,24 @@
 - [운동 동작 분류](https://dacon.io/competitions/official/235689/data)
 - [양어 음성 국적 분류](https://dacon.io/competitions/official/235738/data)
 
+
+<br>
+
+# 팀 제출물
+- 1팀 : [cau_2021_team1.ipynb](cau_2021_team1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team1.ipynb)
+- 2팀 : [cau_2021_team2.ipynb](cau_2021_team2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team2.ipynb)
+- 3팀 : [cau_2021_team3.ipynb](cau_2021_team3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team3.ipynb)
+- 4팀 : [cau_2021_team4.ipynb](cau_2021_team4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team4.ipynb)
+- 5팀 : [cau_2021_team5.ipynb](cau_2021_team5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team5.ipynb)
+- 6팀 : [cau_2021_team6.ipynb](cau_2021_team6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team6.ipynb)
+- 7팀 : [cau_2021_team7.ipynb](cau_2021_team7.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team7.ipynb)
+- 8팀 : [cau_2021_team8.ipynb](cau_2021_team8.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team8.ipynb)
+- 9팀 : [cau_2021_team9.ipynb](cau_2021_team9.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team9.ipynb)
+- 10팀 : [cau_2021_team10.ipynb](cau_2021_team10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team10.ipynb)
+- 11팀 : [cau_2021_team11.ipynb](cau_2021_team11.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team11.ipynb)
+- 12팀 : 
+- 13팀 : [cau_2021_team13.ipynb](cau_2021_team13.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team13.ipynb)
+- 14팀 : [cau_2021_team14.ipynb](cau_2021_team14.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team14.ipynb)
+- 15팀 : [cau_2021_team15.ipynb](cau_2021_team15.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team15.ipynb)
+- 16팀 : [cau_2021_team16.ipynb](cau_2021_team16.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team16.ipynb)
+- 17팀 : [cau_2021_team17.ipynb](cau_2021_team17.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cau_2021_team17.ipynb)
