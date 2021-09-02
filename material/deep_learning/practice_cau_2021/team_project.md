@@ -52,7 +52,7 @@
 
 # 팀 제출물
 - 1팀 : [cau_2021_team1.ipynb](cau_2021_team1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/practice_cau_2021/cau_2021_team1.ipynb)
-- 2팀 : [cau_2021_team2.ipynb](cau_2021_team2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/practice_cau_2021/cau_2021_team2.ipynb)
+- 2팀 : [cau_2021_team2.ipynb](cau_2021_team2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/practice_cau_2021/cau_2021_team2.ipynb), [발표자료](20210830_cau_project_team2.pptx)
 - 3팀 : [cau_2021_team3.ipynb](cau_2021_team3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/practice_cau_2021/cau_2021_team3.ipynb)
 - 4팀 : [cau_2021_team4.ipynb](cau_2021_team4.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/practice_cau_2021/cau_2021_team4.ipynb)
 - 5팀 : [cau_2021_team5.ipynb](cau_2021_team5.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/practice_cau_2021/cau_2021_team5.ipynb)
