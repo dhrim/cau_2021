@@ -5,6 +5,8 @@
 - 전체 자료 리스트 작성
 - 개선
     - ~~model.history~~
+    - data file directory
+    - list data files
 - 추가
     - PCA
     - t-SNE
