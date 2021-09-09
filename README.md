@@ -190,7 +190,7 @@
 - normalization과 성능 : [normalization_and_performance.ipynb](./material/deep_learning/normalization_and_performance.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/normalization_and_performance.ipynb)
 - 불균등 데이터 처리 : [treating_imbalanced_data.ipynb](./material/deep_learning/treating_imbalanced_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/treating_imbalanced_data.ipynb)
 - IMDB 분류에 적용 : [treating_overfitting_with_imdb.ipynb](./material/deep_learning/treating_overfitting_with_imdb.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/treating_overfitting_with_imdb.ipynb)
-- MNIST CNN에 callback과 오버피칭 처리 적용 : [boston_house_price_regression.ipynb](./material/deep_learning/boston_house_price_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/boston_house_price_regression.ipynb)
+- MNIST CNN에 callback과 오버피팅 처리 적용 : [boston_house_price_regression.ipynb](./material/deep_learning/boston_house_price_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/boston_house_price_regression.ipynb)
 
 
 <br>
