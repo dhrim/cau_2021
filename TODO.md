@@ -34,8 +34,9 @@
         - ~~예측~~
         - ~~분류~~
       - ~~영상~~
-        - ~~예측 - 전이학습~~
+        - ~~분류 - 전이학습~~
         - ~~분류 - vanlilla CNN~~
+        - 예측 - https://github.com/kairess/cat_hipsterizer
       - 순차
         - ~~숫자열~~
            - ~~단일 숫자열 예측~~
