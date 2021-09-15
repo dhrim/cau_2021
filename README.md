@@ -95,11 +95,12 @@
 - 전이학습
     [VGG16_classification_and_cumtom_data_training.ipynb](./material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/VGG16_classification_and_cumtom_data_training.ipynb)
 
-    - 커스텀 데이터 VGG 데이터 분류 실습
+    - 커스텀 데이터 VGG 데이터 분류 실습 : [flowers.zip](./material/deep_learning/flowers.zip)
         - [practice_custom_image_classification.ipynb](./material/deep_learning/practice_custom_image_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/practice_custom_image_classification.ipynb)
         - [real_practice_glaucoma_classification.ipynb](./material/deep_learning/real_practice_glaucoma_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/real_practice_glaucoma_classification.ipynb)
 
-
+    - 영상 데이터 예측 : [cat_nose_detection.ipynb](./material/deep_learning/cat_nose_detection.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cat_nose_detection.ipynb)
+    
 <br>
 
 ## 4일차
