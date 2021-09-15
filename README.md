@@ -99,7 +99,6 @@
         - [practice_custom_image_classification.ipynb](./material/deep_learning/practice_custom_image_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/practice_custom_image_classification.ipynb)
         - [real_practice_glaucoma_classification.ipynb](./material/deep_learning/real_practice_glaucoma_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/real_practice_glaucoma_classification.ipynb)
 
-    - 영상 데이터 예측 : [cat_nose_detection.ipynb](./material/deep_learning/cat_nose_detection.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cat_nose_detection.ipynb)
     
 <br>
 
@@ -139,6 +138,8 @@
 
 - 포즈 추출 : [open_pose_using_template.ipynb](material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/open_pose_using_template.ipynb)
 - web cam + colab 실시간 포즈 추출 : [tf_pose_estimation_with_webcam.ipynb](material/deep_learning/tf_pose_estimation_with_webcam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/tf_pose_estimation_with_webcam.ipynb)
+
+- 영상 데이터 예측 : [cat_with_glasses.ipynb](./material/deep_learning/cat_with_glasses.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cat_with_glasses.ipynb)
 
 
 <br>
