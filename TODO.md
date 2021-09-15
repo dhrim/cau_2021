@@ -1,6 +1,6 @@
 # TODO
 
-작성 기준일 : 2021/08/08
+작성 기준일 : 2021/09/15
 
 - 전체 자료 리스트 작성
 - 개선
@@ -11,10 +11,11 @@
     - PCA
     - t-SNE
     - k-cross validation
-    - ~sequence data~
-        - ~regression~ <-- 템플릿 항목에서 처리
-        - ~classification~ <-- 템플릿 항목에서 처리
-        - ~util을 사용한 sequence 데이터 처리~
+    - ~~callback - LearningRateScheduler 추가~~
+    - ~~sequence data~~
+        - ~~regression~~ <-- 템플릿 항목에서 처리
+        - ~~classification~~ <-- 템플릿 항목에서 처리
+        - ~~util을 사용한 sequence 데이터 처리~~
     - scikit-learn
         - scaler
         - train_test_split
