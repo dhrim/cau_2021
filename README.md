@@ -204,7 +204,6 @@
     - 화재 영상 분류 : [fire_scene_classification.ipynb](./material/deep_learning/fire_scene_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/fire_scene_classification.ipynb)    
     - wafer map 영상 분류 : [real_practice_classify_semiconductor_wafermap.ipynb](material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/real_practice_classify_semiconductor_wafermap.ipynb)
     - 엔진 블레이드 영상 분류 : [engine_blade_classification.ipynb](material/deep_learning/engine_blade_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/engine_blade_classification.ipynb)
-    - 글자에 숨겨진 MNIST 영상 분류 : [classification_hidden_mnist_in_lettern.ipynb](material/deep_learning/classification_hidden_mnist_in_lettern.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/classification_hidden_mnist_in_lettern.ipynb)
 
 - 속성 데이터
     - 반도체 속성 데이터 예측 : [real_practice_predict_semiconductor_attribute.ipynb](material/deep_learning/real_practice_predict_semiconductor_attribute.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/real_practice_predict_semiconductor_attribute.ipynb)
@@ -215,6 +214,9 @@
     - 시계열 데이터 예측 : [wheather_forecasting_using_TimeseriesGenerator.ipynb](material/deep_learning/wheather_forecasting_using_TimeseriesGenerator.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/wheather_forecasting_using_TimeseriesGenerator.ipynb)
     - 시계열 데이터 분류 : [real_practice_classify_semiconductor_time_series_data.ipynb](material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/real_practice_classify_semiconductor_time_series_data.ipynb)
 
+- Dacon 데이터
+    - 글자에 숨겨진 MNIST 영상 분류 : [classification_hidden_mnist_in_lettern.ipynb](material/deep_learning/classification_hidden_mnist_in_lettern.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/classification_hidden_mnist_in_lettern.ipynb)
+    - 와인 속성 데이타 품질 분류 : [classification_wine_quality.ipynb](material/deep_learning/classification_wine_quality.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/classification_wine_quality.ipynb)
 
 <br>
 

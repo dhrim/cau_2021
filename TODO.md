@@ -27,7 +27,7 @@
     - ~~howto - 쌍 유지하면서 섞기~~
     - ~~ImageDataGenerator.fit()~~ <- 하지 말자
     - ~~Dacon hidden MNIST 추가~~
-    - Dacon Wine classifcation 추가
+    - ~~Dacon Wine classifcation 추가~~
     - 실시간 Image classification 추가
     - 실시간 Image Regression 추가
     - Template
