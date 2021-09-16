@@ -130,15 +130,12 @@
 - 물체 탐지
    - 물체 탐지의 이해
    - YOLO 적용 방법 실습 : [object_detection.md](./material/deep_learning/object_detection.md)
-
 - 강화학습 이해하기 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx)
 - 알파고 이해하기 : [understanding_ahphago.pptx](./material/deep_learning/understanding_ahphago.pptx)
 
 - 얼굴 인식 : [Face_Recognition.ipynb](./material/deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/Face_Recognition.ipynb)
-
 - 포즈 추출 : [open_pose_using_template.ipynb](material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/open_pose_using_template.ipynb)
 - web cam + colab 실시간 포즈 추출 : [tf_pose_estimation_with_webcam.ipynb](material/deep_learning/tf_pose_estimation_with_webcam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/tf_pose_estimation_with_webcam.ipynb)
-
 - 영상 데이터 예측 : [cat_with_glasses.ipynb](./material/deep_learning/cat_with_glasses.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/cat_with_glasses.ipynb)
 
 
