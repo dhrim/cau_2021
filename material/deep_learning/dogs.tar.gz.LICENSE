@@ -1,0 +1,6 @@
+Stanford Dogs Dataset의 데이터셋 중 임의의 10개 폴더만 추렸다.
+    http://vision.stanford.edu/aditya86/ImageNetDogs/ 
+
+Stanford Dogs Dataset은 ImageNet에서 개의 이미지와 레이블링만 추린 것.
+
+ImageNet의 License는 선언되어 있지 않아서 실질적 public이다.
