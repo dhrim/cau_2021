@@ -32,10 +32,10 @@
     - 실시간 Image classification 추가
     - 실시간 Image Regression 추가
     - Template
-      - 속성
+      - ~~속성~~
         - ~~예측~~
         - ~~분류~~
-        - binary 분류
+        - ~~binary 분류~~
       - 영상
         - ~~분류 - vanlilla CNN~~
         - ~~분류 - 전이학습~~
