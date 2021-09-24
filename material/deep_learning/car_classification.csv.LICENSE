@@ -1,0 +1,13 @@
+UCI Machine Learning Repository의 Auto MPG Data Set(https://archive.ics.uci.edu/ml/datasets/auto+mpg)을 가공하였다.
+
+UCI Machine Learning Repository는 라이센스가 없다.
+
+Citation은 다음과 같다.
+    @misc{
+        Dua:2019 ,
+        author = "Dua, Dheeru and Graff, Casey",
+        year = "2017",
+        title = "{UCI} Machine Learning Repository",
+        url = "http://archive.ics.uci.edu/ml",
+        institution = "University of California, Irvine, School of Information and Computer Sciences" 
+    }
