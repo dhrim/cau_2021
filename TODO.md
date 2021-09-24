@@ -7,6 +7,7 @@
     - ~~model.history~~
     - data file directory
     - list data files
+    - mae를 mape로 변경
 - 추가
     - PCA
     - t-SNE
