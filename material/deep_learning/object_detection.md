@@ -69,8 +69,8 @@ https://github.com/qqwweee/keras-yolo3
 
 ## 레이블링 방법
 
-- 레이블링 가이드 by makesense : [yolo_labeling_guide.pdf](yolo_labeling_guide.pdf)
-- 레이블링 가이드 by labelImg : [yolo_labeling_guide_by_makesense.pdf](yolo_labeling_guide_by_makesense.pdf)
+- 레이블링 가이드 by labelImg : [yolo_labeling_guide.pdf](yolo_labeling_guide.pdf)
+- 레이블링 가이드 by makesense : [yolo_labeling_guide_by_makesense.pdf](yolo_labeling_guide_by_makesense.pdf)
 
 <br>
 
