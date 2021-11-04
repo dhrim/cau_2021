@@ -13,6 +13,10 @@
     - PCA
     - t-SNE
     - k-cross validation
+    - ROC,AUC
+        - FPR-TPR
+        - Precision-Recall
+        - Sensitivity-Specilfity 
     - ~~callback - LearningRateScheduler 추가~~
     - ~~sequence data~~
         - ~~regression~~ <-- 템플릿 항목에서 처리
@@ -63,4 +67,4 @@
     - 사용하지 않는 dnn_in_keras_xxx.ipynb 삭제
     - tensorflow_tutorial_xxx.ipynb 삭제
 - 픽스
-    - ~tf-pose-estimation_with_webcam.ipynb 복원~
+    - ~~tf-pose-estimation_with_webcam.ipynb 복원~~
