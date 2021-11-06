@@ -108,6 +108,7 @@
     - text 데이터의 이해 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
     - RNN의 이해 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx)
     - RNN을 사용한 영화 평가 데이터 IMDB 분류 : [rnn_text_classification.ipynb](./material/deep_learning/rnn_text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/rnn_text_classification.ipynb)
+    - RNN을 사용항 한글 영화 평가 데이터 분류 : [korean_word_sequence_classification.ipynb](./material/deep_learning/korean_word_sequence_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/korean_word_sequence_classification.ipynb)
     - RNN을 사용한 문자열 생성 : [rnn_text_prediction.ipynb](./material/deep_learning/rnn_text_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/rnn_text_prediction.ipynb)
     - RNN을 사용한 seq2seq 학습 : [seq2seq_addition_using_rnn.ipynb](./material/deep_learning/seq2seq_addition_using_rnn.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/seq2seq_addition_using_rnn.ipynb)
     - RNN을 사용한 문자열 분류 : [rnn_addition_text_classication.ipynb](./material/deep_learning/rnn_addition_text_classication.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/rnn_addition_text_classication.ipynb) 
@@ -181,6 +182,7 @@
     - 단어열
         - 단어열 분류 : [template_word_sequence_data_classification.ipynb](material/deep_learning/template_word_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/template_word_sequence_data_classification.ipynb)
         - 단어열 예측 : [template_word_sequence_data_prediction.ipynb](material/deep_learning/template_word_sequence_data_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/template_word_sequence_data_prediction.ipynb)
+        - 한글 단어열 분류 : [template_korean_word_sequence_data_classification.ipynb](material/deep_learning/template_korean_word_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2021/blob/master/material/deep_learning/template_korean_word_sequence_data_classification.ipynb)
         - Bert 사용 분류 : TODO:add
         - Bert 사용 예측 : TODO:add
 
