@@ -9,6 +9,7 @@
     - list data files
     - ~~mae를 mape로 변경~~
     - 전이학습 Template. category count 자동으로.
+    - word2vec을 TFhub 
 - 추가
     - PCA
     - t-SNE
