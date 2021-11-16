@@ -37,6 +37,16 @@
     - ~~Dacon Wine classifcation 추가~~
     - 실시간 Image classification 추가
     - 실시간 Image Regression 추가
+    - NLP
+      - ~~Bert 한글 분류 추가~~
+      - Bert 한글 예측 추가
+      - Bert 한글 유사도 추가
+      - Bert 한글 개체명 인식(NER) 추가
+      - Bert 기계 독해 추가
+      - GTP2 한글 예측 추가
+      - GTP2 한글 예측 추가
+      - GTP2 한글 유사도 추가
+      - GPT2 한글 언어 생성 추가
     - Template
       - ~~속성~~
         - ~~예측~~
