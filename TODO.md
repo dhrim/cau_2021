@@ -39,10 +39,11 @@
     - 실시간 Image Regression 추가
     - NLP
       - ~~Bert 한글 분류 추가~~
-      - Bert 한글 예측 추가
+      - ~~Bert 한글 예측 추가~~
       - Bert 한글 유사도 추가
       - Bert 한글 개체명 인식(NER) 추가
       - Bert 기계 독해 추가
+      - ~~Bert 한글 괄호 예측~~
       - GTP2 한글 예측 추가
       - GTP2 한글 예측 추가
       - GTP2 한글 유사도 추가
