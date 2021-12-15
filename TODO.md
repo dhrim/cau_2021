@@ -35,8 +35,9 @@
     - ~~ImageDataGenerator.fit()~~ <- 하지 말자
     - ~~Dacon hidden MNIST 추가~~
     - ~~Dacon Wine classifcation 추가~~
-    - 실시간 Image classification 추가
-    - 실시간 Image Regression 추가
+    - 웹캠을 사용한 실시간 Image classification 추가
+    - 웹캠을 사용한 실시간 Image Regression 추가
+    - AutoEncoder 사용한 이상탐지 추가
     - NLP
       - ~~Bert 한글 분류 추가~~
       - ~~Bert 한글 예측 추가~~
